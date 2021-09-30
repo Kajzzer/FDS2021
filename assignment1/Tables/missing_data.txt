@@ -1,0 +1,25 @@
+\begin{tabular}{lrr}
+\toprule
+{} &  Total missing &  Percent missing \\
+\midrule
+Perceptions of corruption        &             99 &            0.059 \\
+Generosity                       &             55 &            0.033 \\
+Freedom to make life choices     &             25 &            0.015 \\
+Positive affect                  &             19 &            0.011 \\
+Negative affect                  &             14 &            0.008 \\
+Log GDP per capita               &             12 &            0.007 \\
+Social support                   &             10 &            0.006 \\
+Life Ladder                      &              0 &            0.000 \\
+Healthy life expectancy at birth &              0 &            0.000 \\
+iso3                             &              0 &            0.000 \\
+ISO-alpha3 Code                  &              0 &            0.000 \\
+neu                              &              0 &            0.000 \\
+neg                              &              0 &            0.000 \\
+Speech                           &              0 &            0.000 \\
+Session                          &              0 &            0.000 \\
+Developed / Developing Countries &              0 &            0.000 \\
+Sub-region Name                  &              0 &            0.000 \\
+Region Name                      &              0 &            0.000 \\
+pos                              &              0 &            0.000 \\
+\bottomrule
+\end{tabular}
