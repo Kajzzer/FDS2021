@@ -23,3 +23,21 @@ Region Name                      &              0 &            0.000 \\
 pos                              &              0 &            0.000 \\
 \bottomrule
 \end{tabular}
+\begin{tabular}{lrr}
+\toprule
+{} &  Total missing &  Percent missing \\
+\midrule
+Perceptions of corruption        &             99 &            0.059 \\
+Generosity                       &             55 &            0.033 \\
+Freedom to make life choices     &             25 &            0.015 \\
+Positive affect                  &             19 &            0.011 \\
+Negative affect                  &             14 &            0.008 \\
+Log GDP per capita               &             12 &            0.007 \\
+Social support                   &             10 &            0.006 \\
+neg                              &              0 &            0.000 \\
+neu                              &              0 &            0.000 \\
+pos                              &              0 &            0.000 \\
+Life Ladder                      &              0 &            0.000 \\
+Healthy life expectancy at birth &              0 &            0.000 \\
+\bottomrule
+\end{tabular}

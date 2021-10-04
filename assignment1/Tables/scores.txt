@@ -1,0 +1,7 @@
+\begin{tabular}{lrr}
+\toprule
+{} &  Neural Network &  Linear Regression \\
+\midrule
+0 &            0.01 &               0.03 \\
+\bottomrule
+\end{tabular}
